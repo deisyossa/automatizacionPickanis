@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="I user pickanis need register in the app" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-07-24T23:41:43" hostname="4TT96D3" time="3.967">
+  <properties/>
+  <testcase name="register app" classname="I user pickanis need register in the app" time="3.967"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Jul 24, 2022 6:41:43 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Starting ChromeDriver 103.0.5060.134 (8ec6fce403b3feb0869b0732eda8bd95011d333c-refs/branch-heads/5060@{#1262}) on port 2507
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Jul 24, 2022 6:41:44 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>

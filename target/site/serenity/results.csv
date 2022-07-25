@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"I user pickanis need login","register app","SUCCESS","2022-07-24T18:41:35.228-05:00[America/Bogota]","0.0","2.82"
+"I user pickanis need see principal page","principal page","SUCCESS","2022-07-24T18:41:38.848-05:00[America/Bogota]","0.0","3.7"
+"I user pickanis need see the user register with ""Paseadores""","register app","SUCCESS","2022-07-24T18:41:29.936-05:00[America/Bogota]","0.0","3.93"
+"I user pickanis need register in the app","register app","SUCCESS","2022-07-24T18:41:43.353-05:00[America/Bogota]","0.0","3.19"
+"I user pickanis need register one request","register request","SUCCESS","2022-07-24T18:41:47.363-05:00[America/Bogota]","0.0","2.87"
